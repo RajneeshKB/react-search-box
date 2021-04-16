@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-search-box/static/css/main.614ef762.chunk.css",
+    "main.js": "/react-search-box/static/js/main.1f62b82a.chunk.js",
+    "main.js.map": "/react-search-box/static/js/main.1f62b82a.chunk.js.map",
+    "runtime-main.js": "/react-search-box/static/js/runtime-main.1f778df7.js",
+    "runtime-main.js.map": "/react-search-box/static/js/runtime-main.1f778df7.js.map",
+    "static/js/2.a6e45fa1.chunk.js": "/react-search-box/static/js/2.a6e45fa1.chunk.js",
+    "static/js/2.a6e45fa1.chunk.js.map": "/react-search-box/static/js/2.a6e45fa1.chunk.js.map",
+    "static/js/3.f92c70df.chunk.js": "/react-search-box/static/js/3.f92c70df.chunk.js",
+    "static/js/3.f92c70df.chunk.js.map": "/react-search-box/static/js/3.f92c70df.chunk.js.map",
+    "index.html": "/react-search-box/index.html",
+    "static/css/main.614ef762.chunk.css.map": "/react-search-box/static/css/main.614ef762.chunk.css.map",
+    "static/js/2.a6e45fa1.chunk.js.LICENSE.txt": "/react-search-box/static/js/2.a6e45fa1.chunk.js.LICENSE.txt",
+    "static/media/search.8e55e40c.svg": "/react-search-box/static/media/search.8e55e40c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f778df7.js",
+    "static/js/2.a6e45fa1.chunk.js",
+    "static/css/main.614ef762.chunk.css",
+    "static/js/main.1f62b82a.chunk.js"
+  ]
+}
